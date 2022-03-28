@@ -21,6 +21,10 @@ main {
   padding-top: 2px;
 }
 
+header h1 {
+  padding-left: 10px;
+}
+
 h1 {
   font-size: 1.8rem;
   font-style: italic;
@@ -50,6 +54,7 @@ main img {
   position: absolute;
   bottom: 10px;
   left: 10px;
+  font-size: 1rem;
 }
 
 .flex-box {
