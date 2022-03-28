@@ -60,6 +60,7 @@ main img {
 .flex-box {
   display: flex;
   justify-content: space-between;
+  margin-top: 5px;
 }
 
 .flex-box figure {
