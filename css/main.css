@@ -10,6 +10,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 h1 {
   font-size: 1.8rem;
   font-style: italic;
@@ -22,26 +26,29 @@ main img {
   color: #fff;
 }
 
-
 .banner-text {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr;
-}
-
-.banner-text img {
+  position: relative;
+  color: #fff;
   width: 100%;
 }
 
 .banner-text h2 {
-  margin: 0;
-  grid-column: 1 / 2;
-  grid-row: 1;
-  align-self: end;
-  z-index: 1;
+  position: absolute;
+  bottom: 30px;
+  left: 10px;
 }
 
-.banner-text pano {
-  grid-column: 1 / -1;
-  grid-row: 1;
+.banner-text p {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+.flex-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-box figure {
+  margin: 1px;
 }
