@@ -10,7 +10,7 @@ html {
   box-sizing: inherit;
 }
 
-header h1 {
+header {
   font-size: 1.8rem;
   font-style: italic;
   font-family: Merriweather, serif;
