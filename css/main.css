@@ -12,6 +12,8 @@ html {
 
 body {
   margin: 0;
+  font-family: Merriweather, serif;
+  font-style: italic;
 }
 
 h1 {
@@ -30,6 +32,7 @@ main img {
   position: relative;
   color: #fff;
   width: 100%;
+  font-weight: lighter;
 }
 
 .banner-text h2 {
@@ -50,5 +53,9 @@ main img {
 }
 
 .flex-box figure {
-  margin: 1px;
+  margin: 0;
+}
+
+.figure2 {
+  padding: 0 0.5rem;
 }
