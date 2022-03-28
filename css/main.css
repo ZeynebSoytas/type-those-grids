@@ -17,9 +17,9 @@ h1 {
   font-weight: lighter;
 }
 
-.banner-img {
+main img {
   width: 100%;
-  height: auto;
+  color: #ffffff;
 }
 
 .banner-text {
