@@ -22,6 +22,26 @@ main img {
   color: #fff;
 }
 
+
+.banner-text {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+
+.banner-text img {
+  width: 100%;
+}
+
 .banner-text h2 {
-  padding-bottom: 200px;
+  margin: 0;
+  grid-column: 1 / 2;
+  grid-row: 1;
+  align-self: end;
+  z-index: 1;
+}
+
+.banner-text pano {
+  grid-column: 1 / -1;
+  grid-row: 1;
 }
