@@ -56,6 +56,7 @@ main img {
   bottom: 10px;
   left: 10px;
   font-family: Merriweather, serif;
+  font-style: normal;
   font-size: 1rem;
 }
 
