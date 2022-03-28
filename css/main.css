@@ -76,6 +76,8 @@ main img {
 .figure2 {
   padding: .5rem;
   padding-top: 0;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 h3 {
