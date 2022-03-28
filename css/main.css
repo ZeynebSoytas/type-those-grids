@@ -10,9 +10,13 @@ html {
   box-sizing: inherit;
 }
 
-.banner h1 {
+h1 {
   font-size: 1.8rem;
   font-style: italic;
   font-family: Merriweather, serif;
   font-weight: lighter;
+}
+
+.banner img {
+  width: 100%;
 }
