@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&display=swap');
-
 html {
-  font-family: Merriweather, serif;
+  font-family: 'Merriweather', serif;
   box-sizing: border-box;
   line-height: 1.5;
 }
