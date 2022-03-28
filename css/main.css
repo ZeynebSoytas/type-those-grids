@@ -54,7 +54,7 @@ main img {
   position: absolute;
   bottom: 10px;
   left: 10px;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 .flex-box {
@@ -67,6 +67,5 @@ main img {
 }
 
 .figure2 {
-  padding: 0.5rem;
-  padding-top: 0px;
+  padding: 0 0.5rem;
 }
