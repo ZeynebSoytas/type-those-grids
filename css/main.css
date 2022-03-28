@@ -21,3 +21,9 @@ main img {
   width: 100%;
   color: #fff;
 }
+
+.banner-text {
+  grid-area: banner;
+  color: #222;
+  padding: 2rem;
+}
