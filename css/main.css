@@ -71,7 +71,6 @@ main img {
   margin: 0;
   grid-gap: 5px;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-areas: myarea, myarea, myarea;
 }
 
 .figure2 {
