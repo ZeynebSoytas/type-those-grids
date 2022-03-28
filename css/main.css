@@ -22,8 +22,6 @@ main img {
   color: #fff;
 }
 
-.banner-text {
-  grid-area: banner;
-  color: #222;
-  padding: 2rem;
+.banner-text h2 {
+  padding-bottom: 200px;
 }
