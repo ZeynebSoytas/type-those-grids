@@ -71,6 +71,7 @@ main img {
   margin: 0;
   grid-gap: 5px;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-area: div class;
 }
 
 .figure2 {
