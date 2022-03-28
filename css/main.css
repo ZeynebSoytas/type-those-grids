@@ -54,7 +54,9 @@ main img {
   position: absolute;
   bottom: 10px;
   left: 10px;
-  font-size: 0.5rem:
+  font-style: italic;
+  font-family: Merriweather, serif;
+  font-size: 1rem;
 }
 
 .flex-box {
